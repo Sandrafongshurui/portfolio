@@ -1,7 +1,7 @@
 # Web Applications
 
 ### Immersive Asset Library (on-going)
-<p>A library of immersive assets (3d Models, 360 images etc.) for users to download. Features include uploading of 3d Assets and 360 images and enrollment of students by authorized admin staff.</p>
+<p>A library of immersive assets (3d Models, 360 images etc.) for users to download. Features include uploading of 3d Assets and 360 images and enrollment of students by authorized admin staff. Hosted on AWS Lightsail</p>
 
 <!-- - **[Application Link](https://immersive-asset-library.onrender.com/login)** -->
 - Tools: **MongoDb, Express, Node.js, AWSLightsail, AWS S3, Docker, JavaScript, Bootstrap, .EJS template, passport.js**
@@ -64,6 +64,17 @@ execute all backend API endpoints.</p>
 ---
 
 # Immersive Technology Applications
+### 2D Gamification - Fire Safety 101
+
+<p>A 2D informative game with self-guided feedback and learning content about fire safety facilities. </p>
+
+- [Demo Video](https://youtu.be/Vvcsowmik14)
+- Tools: **Unity Engine(C#), Adobe Illustrator**
+
+<img style="width:400px"  src="images/FireSaftey101-sample.png?raw=true"/>
+
+---
+
 ### Augmented Training - Emergency Lighting
 An AR tool to visualize the systems of an emergency lighting mechanics during a power failure.
 
@@ -104,17 +115,5 @@ An AR tool to visualize the systems of an emergency lighting mechanics during a 
 - Tools: **Unity Engine(C#), 3ds Max**
 
 <img  style="width:400px" src="images/ECTC-Sample.png?raw=true"/>
-
-
----
-
-## 2D Gamification - Fire Safety 101
-
-<p>A 2D informative game with self-guided feedback and learning content about fire safety facilities. </p>
-
-- [Demo Video](https://youtu.be/Vvcsowmik14)
-- Tools: **Unity Engine(C#), Adobe Illustrator**
-
-<img style="width:400px"  src="images/FireSaftey101-sample.png?raw=true"/>
 
 <!-- Remove above link if you don't want to attibute -->
