@@ -3,12 +3,14 @@
 ### Immersive Asset Library (on-going)
 <p>A library of immersive assets (3d Models, 360 images etc.) for users to download. Features include uploading of 3d Assets and 360 images and enrollment of students by authorized admin staff.</p>
 
-- **[Application Link](https://immersive-asset-library.onrender.com/login)**
-- Tools: **MongoDb, Express, Node.js, JavaScript, Bootstrap, .EJS template, passport.js**
+<!-- - **[Application Link](https://immersive-asset-library.onrender.com/login)** -->
+- Tools: **MongoDb, Express, Node.js, AWSLightsail, AWS S3, Docker, JavaScript, Bootstrap, .EJS template, passport.js**
 
-<img style="width:400px" src="images/Immersive-asset-library-Sample.png?raw=true"/>
 <img style="width:400px" src="images/immersive-library-sample-2.png?raw=true"/>
-
+<img style="width:400px" src="images/ial-pubish-uploads.png?raw=true"/>
+<img style="width:400px" src="images/ial-uploads.png?raw=true"/>
+<img style="width:400px" src="images/ial-view-asset.png?raw=true"/>
+<img style="width:400px" src="images/ial-enrollment.png?raw=true"/>
 ---
 
 ### Webooks
