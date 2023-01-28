@@ -7,7 +7,7 @@
 - Tools: **MongoDb, Express, Node.js, AWSLightsail, AWS S3, Docker, JavaScript, Bootstrap, .EJS template, passport.js**
 
 <img style="width:400px" src="images/immersive-library-sample-2.png?raw=true"/>
-<img style="width:400px" src="images/ial-pubish-uploads.png?raw=true"/>
+<img style="width:400px" src="images/ial-publish-uploads.png?raw=true"/>
 <img style="width:400px" src="images/ial-uploads.png?raw=true"/>
 <img style="width:400px" src="images/ial-view-asset.png?raw=true"/>
 <img style="width:400px" src="images/ial-enrollment.png?raw=true"/>
